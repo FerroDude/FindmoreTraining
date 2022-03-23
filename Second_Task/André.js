@@ -15,6 +15,7 @@ for (i = navigator.length - 1; i >= 0; i--) {
   namenew = namenew + navigator[i];
 }
 console.log(namenew);
+
 //3.3 Depending on the lexicographic order of the strings, print:
 //- The driver's name goes first.
 //- Yo, the navigator goes first definitely.
